@@ -1,0 +1,10 @@
+{
+  "name": "orbit-terminal",
+  "version": "1.0.0",
+  "description": "Local web terminal with tabs and shareable sessions",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "author": "Arrow dev",
+  "license": "MIT"
+}
